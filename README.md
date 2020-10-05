@@ -14,8 +14,8 @@ Foi criado um arquivo simples com rotas e conexões.
 
 Feito inteiramente em HTML, com auxílio de jquery, javascript e bootstrap.
 
-# [docker-compose.yml](https://github.com/acgoularthub/ProjetoCadastroSimplesDocker/blob/main/node-mongo-compose/docker-compose.yml)
-
+**[docker-compose.yml](https://github.com/acgoularthub/ProjetoCadastroSimplesDocker/blob/main/node-mongo-compose/docker-compose.yml)**
+# Resultado
 ![Resultado Final](https://imgur.com/2yZc3hk.png)
 
 **PS.** O projeto foi feito sem pretenções de ser um webapp utilisável, não foram tomadas as medidas necessárias para segurança do mesmo propositalmente, com o intuito apenas de treinar a confecção e uso de containers docker.
